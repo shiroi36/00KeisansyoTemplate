@@ -1,8 +1,11 @@
+# WCS長孔寸法の計算
+
 bc=200
 tr=9
 tw=9
 twf=9
 tk=16
+
 br=bc-2*(tr+5)
 Lh=tw+2*twf+tk+1
 Bh=tk+3+2*7

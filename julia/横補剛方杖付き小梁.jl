@@ -1,3 +1,5 @@
+# 方杖付き小梁の横補剛の検討
+
 using Printf
 
 println("B35S方杖の横補剛の検討")

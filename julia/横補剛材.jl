@@ -1,3 +1,5 @@
+# 横補剛材の検討
+
 using Printf
 
 println("横補剛材K1の検討")

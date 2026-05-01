@@ -1,3 +1,5 @@
+# 片持ちRC階段の検討
+
 using Printf
 
 @printf("○設計条件\n")

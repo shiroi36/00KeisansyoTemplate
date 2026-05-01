@@ -1,3 +1,5 @@
+# 胴縁端部接合部の検討
+
 qs = 1.0 # kN
 println("設計せん断力				Qs=", qs, "kN")
 println("")
